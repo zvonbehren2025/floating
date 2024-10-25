@@ -1,0 +1,40 @@
+.class {
+    border-style: groove;
+    border-color: blueviolet;
+    border-width: 10px;
+    border-radius: 9px;
+    padding: 5px;
+    text-align: center;
+    width: 80%;
+    margin: auto;
+}
+
+img {
+    height: 20pc;
+    padding: 10px;
+}
+
+#upup{
+    position: fixed;
+    top: 0;
+    right: 10px;
+    background: orange;
+}
+
+#left{
+    float: left;
+}
+#right{
+    float: right;
+}
+
+#taggy {
+    color: brown;
+    clear: both;
+}
+
+#poopoo {
+    list-style-type: upper-roman;
+    color: red;
+
+}
